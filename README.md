@@ -31,4 +31,13 @@ This should open the notebook and allow you to start the analysis.  The terminal
 
 Once the environment has be setup, you can restart the analysis by beginning at step 4. (`source activate dand-project3`), above.
 
-https://youtu.be/OtDZCYxbHB4
+
+
+## Projects Instructions 
+
+* [Project instructions](instructions/projectDetails.pdf)
+* [Project ruberic](instructions/projectRuberic.pdf)
+* [Dataset description](instructions/datasetOptions.pdf)
+
+### Walkthough video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OtDZCYxbHB4/0.jpg)](https://www.youtube.com/watch?v=OtDZCYxbHB4)
