@@ -33,7 +33,7 @@ Once the environment has be setup, you can restart the analysis by beginning at 
 
 
 
-## Projects Instructions 
+## Project Instructions 
 
 * [Project instructions](instructions/projectDetails.pdf)
 * [Project ruberic](instructions/projectRuberic.pdf)
